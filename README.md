@@ -1,8 +1,7 @@
 ## 👋 Greetings!
 
-My name is **Nikola**, and I am a 2nd year Computer Science student at **UP FAMNIT**. I have shown great interest in computer programming, mathematics and engineering, which made me deeply rooted in creatively solving modern-day problems.
-
-I enjoy traveling and reading literature, literature that spans from subjects about **Quantum Computers** and to subjects about our **Society**.
+My name is **Nikola**, and I am a 2nd year Computer Science student at **UP FAMNIT**. I have shown great interest in computer programming, mathematics and engineering, which made me deeply rooted in creatively solving modern-day problems. 
+I have shown enormous interest in Competitive Programming and enjoy using the knowledge that I have learned to solve problems in a **creative** and **optimized** manner.
 
 In my free time, I relax by taking walks along the sunny coast of **Koper** and hiking in the beautiful mountains of **Slovenia**.
 
